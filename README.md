@@ -12,4 +12,22 @@ If you need help you can use this tutorial I wrote here to know how to compile f
 
 Before to go to the browse folder icon in the main screen, press UNJAIL button. This is a proof of concept to use the Unjail Plugin Exploit I developed for using with Unity.
 
-The main goal of this project also with this other one: 
+The main goal of this project also with this other one: https://github.com/RetroGamer74/PS4_GBEmu_FileManager_Unjail is provide to the PS4 Scene Developers a nice templates to develop homebrew.
+
+I hope you enjoy.
+
+# CREDITS
+
+VidePlayback sample is part of Unity PS4 Samples.
+
+FileManager is an old interface integration.
+
+I've updated to support GamePad controller.
+
+You can take a look to the Input Manager also if you want to add more buttons support.
+
+It has been supported also for the Gamepad Trackpad to use it as a Mouse.
+
+The Unjail Plugin for Unity contains the minimum required source to escalate privileges. This is part of the libHB developed by @cfwprophet.
+
+If you need further support you can contact me at @RetroGamer_74
