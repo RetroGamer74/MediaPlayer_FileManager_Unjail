@@ -8,4 +8,8 @@ It has also the Unjail feature to be able to get root permissions in the own app
 
 So download the ZIP package. And Built it creating a Package.
 
-If you need help you can use this tutorial I wrote here: 
+If you need help you can use this tutorial I wrote here to know how to compile from Unity a PS4 Package: https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG
+
+Before to go to the browse folder icon in the main screen, press UNJAIL button. This is a proof of concept to use the Unjail Plugin Exploit I developed for using with Unity.
+
+The main goal of this project also with this other one: 
